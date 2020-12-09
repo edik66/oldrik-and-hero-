@@ -1,0 +1,12 @@
+int main() {
+	int relation;// Äîáðîå 
+	nt asw;// Äîáðûé äåíü
+	setlocale(0,"ru")
+	std::cout<<"Ïðèâåòñòâóþ, Ñòðàíèê"<<std::endl;
+	std::cout<<std::endl<<"1.-Äàâàé òîðãîâàòü!"<<std::enndl;
+	std::cout<<"2.- ßâûðåçàë òâîþ ðàäíóþ äåðåâíþ!"<<std::endl;
+	std::cout<<"3.- Ñëóõè!"<< std::endl;
+	std::cout<<"4.- Íåò íè÷åãî íå íàäî äî ñâèäàíèå!"<< std::endl;
+	std::cout<<std::endl<<"2:"<<std::endl;
+	std::cin>>anws;
+	return 0;
